@@ -1,14 +1,18 @@
 <style>
+	@font-face {
+		font-family: din1451alt;
+		src: url(/din1451alt.woff);
+	}
+
 	h1 {
 		text-align: center;
 		margin: 0 auto;
 	}
 
 	h1 {
+		font-family: din1451alt;
 		font-size: 2.8em;
 		text-transform: uppercase;
-		font-weight: 700;
-		margin: 0 0 0.5em 0;
 		color: white;
 	}
 
@@ -23,4 +27,4 @@
 	<title>Joseph Henry</title>
 </svelte:head>
 
-<h1>Joseph Henry</h1>
+<h1>JOSEPH_HENRY</h1>
