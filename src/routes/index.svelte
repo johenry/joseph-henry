@@ -1,9 +1,4 @@
 <style>
-	@font-face {
-		font-family: din1451alt;
-		src: url(/din1451alt.woff);
-	}
-
 	h1 {
 		text-align: center;
 		margin: 0 auto;
