@@ -1,6 +1,6 @@
 @font-face {
 	font-family: din1451alt;
-	src: url(/din1451alt.woff);
+	src: url(/din1451alt-expanse.woff);
 }
 
 body {
@@ -13,6 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+	font-family: din1451alt;
 	margin: 0 0 0.5em 0;
 	font-weight: 400;
 	line-height: 1.2;
