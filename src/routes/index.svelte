@@ -5,7 +5,6 @@
 	}
 
 	h1 {
-		font-family: din1451alt;
 		font-size: 2.8em;
 		text-transform: uppercase;
 		color: white;
